@@ -27,23 +27,18 @@
 <tbody>
 <tr>
 <td align="center">2022.10 - 2022.11</td>
-<td align="center">Android App</td>
-<td><a href="https://github.com/seulseul2/Lyra">Lyra</a> (버스킹 홍보 & 후원 플랫폼)</td>
+<td align="center">Responsive Web</td>
+<td><a href="https://github.com/seulseul2/Lyra">독후감</a> (NFT를 활용한 강아지 추억 기록 및 산책 장려 )</td>
 </tr>
 <tr>
 <td align="center">2022.08 - 2022.10</td>
-<td align="center">Mobile Web</td>
-<td><a href="https://github.com/seulseul2/Yeobo">여보</a> (코사인 유사도 기반 여행지 추천 서비스)</td>
+<td align="center">Responsive Web</td>
+<td><a href="https://github.com/leemin-jae/daemori">대모리</a> (블록체인 기반 대학 대회 후원 및 응원 플랫폼)</td>
 </tr>
 <tr>
 <td align="center">2022.07 - 2022.08</td>
 <td align="center">Responsive Web</td>
-<td><a href="https://github.com/seulseul2/SoldSolve">Sold Solve</a> (Web RTC 기술을 활용한 중고 라이브 커머스)</td>
-</tr>
-<tr>
-<td align="center">2022.05 - 2022.05</td>
-<td align="center">Web</td>
-<td><a href="https://github.com/seulseul2/HH_Movie">HH Movie</a> (TMDB Open API 영화추천 커뮤니티)</td>
+<td><a href="https://github.com/leemin-jae/SoldSolve">Sold Solve</a> (Web RTC 기술을 활용한 중고 라이브 커머스)</td>
 </tr>
 </tbody>
 </table>
