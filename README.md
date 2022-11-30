@@ -11,7 +11,7 @@
 <ul dir="auto">
 <li>Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)</li>
 <li>Opendata Youth Intern (2021.08 - 2021.12)</li>
-<li>Kyunghee University, Hospitality Management (2014.03 - 2020.08)</li>
+<li>Chosun University, Computer Engineering (2015.03 - 2022.02)</li>
 </ul>
 <br>
 
