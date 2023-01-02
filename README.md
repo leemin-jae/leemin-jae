@@ -28,7 +28,7 @@
 <tr>
 <td align="center">2022.10 - 2022.11</td>
 <td align="center">Responsive Web</td>
-<td><a href="https://github.com/seulseul2/Lyra">독후감</a> (NFT를 활용한 강아지 추억 기록 및 산책 장려 )</td>
+<td><a href="https://github.com/leemin-jae/dog-hoogam">독후감</a> (NFT를 활용한 강아지 추억 기록 및 산책 장려 )</td>
 </tr>
 <tr>
 <td align="center">2022.08 - 2022.10</td>
