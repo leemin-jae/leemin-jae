@@ -26,9 +26,14 @@
 </thead>
 <tbody>
 <tr>
+<td align="center">2023.04 - 진행중</td>
+<td align="center">Responsive Web</td>
+<td><a href="https://github.com/leemin-jae/dog-hoogam">OTT 추천프로젝트(이름미정)</a> (OTT 제공 드라마 및 영화 추천 플랫폼)</td>
+</tr>
+<tr>
 <td align="center">2022.10 - 2022.11</td>
 <td align="center">Responsive Web</td>
-<td><a href="https://github.com/leemin-jae/dog-hoogam">독후감</a> (NFT를 활용한 강아지 추억 기록 및 산책 장려 )</td>
+<td><a href="https://github.com/leemin-jae/dog-hoogam">독후감</a> (NFT를 활용한 강아지 추억 기록 및 산책 장려 플랫폼)</td>
 </tr>
 <tr>
 <td align="center">2022.08 - 2022.10</td>
